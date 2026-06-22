@@ -13,3 +13,4 @@
   * [teuthis](https://github.com/astrogas/teuthis): simulation orchestration tool
 * [Flash-X](https://flash-x.org/)
 * [Illinois Astrophysical Dynamics Demos (iADD)](https://iadd.astro.illinois.edu)
+  * [iadd-tools](https://github.com/astrogas/iadd-tools): in-browser tool infrastructure for iADD
